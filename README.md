@@ -10,9 +10,9 @@ Dokumentasi Pembelajaran GIT hari pertama
 -push reposity pribadi
 -pull request
 -local
--checkout brand master
--pull upstream master
--push origin master
+-checkout brand main
+-pull upstream main
+-push origin main
 
 
 # Kode demo
@@ -26,9 +26,9 @@ Dokumentasi Pembelajaran GIT hari pertama
 -git remote -v
 -git status
 -git push https://github.com/Honk1time/BelajarGit.git
--git checkout -b master
--git pull upstream master
--git push origin master
+-git checkout -b main
+-git pull upstream main
+-git push origin main
 
 
 

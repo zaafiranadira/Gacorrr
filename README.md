@@ -31,6 +31,7 @@ Dokumentasi Pembelajaran GIT hari pertama
 
 # step by step
 ![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/1.jpeg)
+
 input git init agar directory terbaca sebagai Git
 
 ![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/2.jpeg)

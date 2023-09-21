@@ -80,6 +80,8 @@ embed untuk menginput image kedalam README.md
 
 
 # yang berkontribusi
--M.Iqbal Fachri 
--Zaafira Nadira Putri 
--Gilang Riski Saputra
+- Gilang Riski Saputra : 062130801940
+
+- M.Iqbal Fachri : 062130801944
+
+- Zaafira Nadira Putri : 062130801957

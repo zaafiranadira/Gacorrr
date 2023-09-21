@@ -57,3 +57,5 @@ Dokumentasi Pembelajaran GIT hari pertama
 -M.Iqbal Fachri 
 -Zaafira Nadira Putri 
 -Gilang Riski Saputra
+
+![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/1.jpeg)

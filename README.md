@@ -1,5 +1,5 @@
 
-# Project-magang
+# Project-Magang
 
 Dokumentasi Pembelajaran GIT hari pertama
 

@@ -30,35 +30,40 @@ Dokumentasi Pembelajaran GIT hari pertama
 
 
 # step by step
-*fork repository dari master yang tersedia, lalu copy kode dari repository sendiri, 
-*agar bisa terlihat oleh publik gunakan dns http lalu copy link 
-*buat folder baru lalu klik kanan pada blank folder lalu klik git bash 
-*saat masuk ke git bash masukan git init agar folder terbaca sebagai git 
-*lakukan configurasi terlebih dahulu agar git bisa mengidentifikasi melalui email/username 
-*clone repository yang sudah di salin sebelumnya *change directory ke folder hasil clone 
-*buka folder clone lalu buka file README.md untuk mengupdate nama dan reference belajar git 
-*tambah nama user dan reference pada file README.md 
-*setelah itu add modifikasi yang kita buat dengan cara git add README.md 
-*file README.md akan terupdate dan siap untuk di commit 
-*commit dengan cara git commit -m "updatenama" 
-*jangan lupa cek kemana arah git kita dengan cara git remote -v 
-*akan ada 2 link yaitu pull origin dan push origin 
-*lalu git push dengan memasukan link push origin 
-*pull request ke master agar file yang kita ubah di merge dan bisa terupdate pada publik 
-*jika pada repository master menampilkan update nama dan reference makan update berhasil 
-*kembali ke lokal yang kita buat 
-*ubah branch dari development kembali ke master/main dengan cara git checkout -b master/main 
-*setelah kita kembali menjadi main lakukan pull upstream master 
-*bertujuan untuk menarik file yang sudah terpdate dari master 
-*lalu push origin master untuk memasukan file yang sudah terupdate ke reposity pribadi 
-*selesai
-
-
-
-# 
-
 ![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/1.jpeg)
+input git init agar directory terbaca sebagai Git
+
 ![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/2.jpeg)
+git clone agar terkloning
+
+![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/3.jpeg)
+cd Project-Magang untuk mengubah directory ke dir clone
+
+![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/4.jpeg)
+git checkout -b development untuk mengubah branch dari master ke development
+
+![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/7.jpeg)
+check pada bagian README.md yang akan diubah
+
+![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/10.jpeg)
+lalu masukan perihal yang dinginkan melalui README.md dan save
+
+![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/5.jpeg)
+input git add README.md untuk menambahkan perihal yang sudah di save di README.md
+
+![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/11.jpeg)
+lakukan git commit -m untuk memasukan file ke reposity
+
+![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/12.jpeg)
+set remote url terlebe
+
+![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/13.jpeg)
+
+![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/14.jpeg)
+
+![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/15.jpeg)
+
+![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/16.jpeg)
 
 
 # yang berkontribusi

@@ -55,15 +55,19 @@ input git add README.md untuk menambahkan perihal yang sudah di save di README.m
 lakukan git commit -m untuk memasukan file ke reposity
 
 ![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/12.jpeg)
-set remote url terlebe
+set remote url terlebih dahulu untuk mengatur arah repository
 
 ![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/13.jpeg)
+masukan git push url reposity yang di tuju
 
 ![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/14.jpeg)
+pull request kepada master agar file yang di modifikasi bisa di merge oleh master 
 
-![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/15.jpeg)
+![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/17.jpeg)
+embed untuk menginput image kedalam README.md 
 
-![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/16.jpeg)
+
+
 
 
 # yang berkontribusi

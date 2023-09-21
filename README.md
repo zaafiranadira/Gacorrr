@@ -72,7 +72,7 @@ masukan git push url reposity yang di tuju
 ![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/14.jpeg)
 pull request kepada master agar file yang di modifikasi bisa di merge oleh master 
 
-![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/17.jpeg)
+![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/17.png)
 embed untuk menginput image kedalam README.md 
 
 

@@ -35,30 +35,38 @@ Dokumentasi Pembelajaran GIT hari pertama
 input git init agar directory terbaca sebagai Git
 
 ![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/2.jpeg)
-git clone agar terkloning
+
+git clone agar bisa di copy ke directory yang baru
 
 ![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/3.jpeg)
+
 cd Project-Magang untuk mengubah directory ke dir clone
 
 ![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/4.jpeg)
+
 git checkout -b development untuk mengubah branch dari master ke development
 
 ![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/7.jpeg)
+
 check pada bagian README.md yang akan diubah
 
 ![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/10.jpeg)
+
 lalu masukan perihal yang dinginkan melalui README.md dan save
 
 ![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/5.jpeg)
+
 input git add README.md untuk menambahkan perihal yang sudah di save di README.md
 
 ![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/11.jpeg)
 lakukan git commit -m untuk memasukan file ke reposity
 
 ![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/12.jpeg)
+
 set remote url terlebih dahulu untuk mengatur arah repository
 
 ![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/13.jpeg)
+
 masukan git push url reposity yang di tuju
 
 ![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/14.jpeg)

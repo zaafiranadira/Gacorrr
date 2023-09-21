@@ -53,9 +53,15 @@ Dokumentasi Pembelajaran GIT hari pertama
 *lalu push origin master untuk memasukan file yang sudah terupdate ke reposity pribadi 
 *selesai
 
+
+
+# 
+
+![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/1.jpeg)
+![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/2.jpeg)
+
+
 # yang berkontribusi
 -M.Iqbal Fachri 
 -Zaafira Nadira Putri 
 -Gilang Riski Saputra
-
-![example](https://raw.githubusercontent.com/zaafiranadira/Project-Magang/main/1.jpeg)
